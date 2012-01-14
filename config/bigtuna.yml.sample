@@ -1,7 +1,8 @@
 # production:
-#   read_only: true                        # default: false
-#   github_secure: "think_of_secure_token" # default: nil
 #   url_host: "ci.yoursite.com"
-#   ajax_reload: false                     # "building" or "always"
-#   build_dir: "tmp"                       # default: "builds"
-#   log: "log/bigtuna.log"                 # default: use Rails log
+#   read_only: true                          # default: false
+#   github_secure: "think_of_secure_token"   # default: nil
+#   bitucket_secure: "think_of_secure_token" # default: nil
+#   ajax_reload: false                       # "building" or "always"
+#   build_dir: "tmp"                         # default: "builds"
+#   log: "log/bigtuna.log"                   # default: use Rails log
